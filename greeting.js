@@ -9,6 +9,6 @@ if (hourNow > 18) {
     greeting = 'Early to the game! ';
 } else {
     greeting = 'Welcome!';
-
-    document.write('<h2>' + greeting + '</h2>');
 }
+
+    document.write ('<h2>' + greeting + '</h2>');
