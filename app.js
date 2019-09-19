@@ -1,3 +1,4 @@
+function askName (){
 var userName = prompt('What should I call you?');
- document.write (<h3> 'Hello ' + greeting + '!'</h3>);
- 
+document.write ('<h3>' +  Hello  + userName + ! + '</h3>');
+}
