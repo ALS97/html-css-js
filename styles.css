@@ -16,6 +16,10 @@ h1{
 .menu li{
     display: inline-block;
 }
+h2{
+    display: inline-block;
+    width: 960px;
+}
 
 #pic1{
     display: block;
